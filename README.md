@@ -1,3 +1,3 @@
 ## About me
-- 🏫 I'm currently an undergraduate student at Information Science Advanced Class, school of EIC, HUST. 
-- 🎯 Interested in Computer Vision, especially generative tasks, 3D vision.
+- 🏫 I'm an undergraduate student in the Information Science Advanced Class, school of EIC, HUST. 
+- 🎯 Interested in Computer Vision, especially 3D/4D and generative related tasks.
